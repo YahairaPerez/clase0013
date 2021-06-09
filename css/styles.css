@@ -7387,7 +7387,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #D1570D !important;
 }
 
 .bg-secondary {
@@ -7411,7 +7411,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #FDE792 !important;
 }
 
 .bg-dark {
@@ -10833,7 +10833,7 @@ textarea.form-control-lg {
 }
 
 * {
-  font-family: 'Sunflower', sans-serif;
+  font-family: 'Quicksand', sans-serif!important;
 }
 
 body,
@@ -10979,7 +10979,7 @@ html {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/list.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
